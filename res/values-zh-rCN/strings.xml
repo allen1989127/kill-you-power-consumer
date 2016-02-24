@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="system_tab">系统应用</string>
+    <string name="customer_tab">第三方应用</string>
+    <string name="set_time_title">设置间隔时间</string>
+    <string name="second">秒</string>
+    <string name="set_time_show">间隔时间：</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="set_time_error_tip">清设置间隔时间在1至255之间</string>
+    <string name="set_time_tip">1~255</string>
+    <string name="app_name">去屎吧</string>
+    <string name="kill_application_title">再见！</string>
+
+</resources>

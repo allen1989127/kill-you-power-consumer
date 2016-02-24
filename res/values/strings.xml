@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">KillYou</string>
+    <string name="system_tab">System Apps</string>
+    <string name="customer_tab">Customer Apps</string>
+    <string name="set_time_title">Set Interval Time</string>
+    <string name="second">S</string>
+    <string name="set_time_show">Interval Time:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_time_tip">1~255</string>
+    <string name="set_time_error_tip">Please Set Interval Time Between 1 to 255!</string>
+    <string name="kill_application_title">Bye!</string>
+
+</resources>
